@@ -13,6 +13,12 @@ body {
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #d9b38c;
+}
+
+h1, h2, h3, p {
+    font-family: 'Segoe Print', Gabriola;
+    color: #734d26;
 }
 
 .img-portfolio {
