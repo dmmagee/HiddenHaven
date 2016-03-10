@@ -21,6 +21,14 @@ h1, h2, h3, h4, p {
     color: #734d26;
 }
 
+a {
+    color: #e62e00;
+}
+
+    a:hover {
+        color: #b32400;
+    }
+
 .img-portfolio {
     margin-bottom: 30px;
 }
