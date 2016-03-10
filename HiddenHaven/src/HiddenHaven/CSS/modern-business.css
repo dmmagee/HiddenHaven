@@ -16,7 +16,7 @@ body {
     background: linear-gradient( to right, #734D26, #d2a679, #d9b38c, #d2a679, #734D26 );
 }
 
-h1, h2, h3, p {
+h1, h2, h3, h4, p {
     font-family: 'Segoe Print', Gabriola;
     color: #734d26;
 }
