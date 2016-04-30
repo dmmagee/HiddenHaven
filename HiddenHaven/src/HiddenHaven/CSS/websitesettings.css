@@ -1,3 +1,7 @@
-﻿.pic-preview {
+﻿.panel-max {
+    min-height: 535px !important;
+}
+
+.pic-preview {
     max-width: 500px;
 }
